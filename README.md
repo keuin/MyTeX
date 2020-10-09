@@ -1,0 +1,2 @@
+# MyTeX
+My LaTeX templates
